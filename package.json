@@ -1,0 +1,22 @@
+{
+  "name": "nagu-react-components",
+  "version": "0.0.3",
+  "description": "供react使用的，可重用的组件集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagucc/react-components.git"
+  },
+  "author": "na57",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nagucc/react-components/issues"
+  },
+  "homepage": "https://github.com/nagucc/react-components#readme",
+  "dependencies": {
+    "react": "^0.14.5"
+  }
+}
